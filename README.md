@@ -1,5 +1,4 @@
 ## Olá! Eu sou Vinícius Simas Vimercati
-- 🌱 Atualmente estou estudando API Restfull com Spring
 - 🔭 Sou residente no Serratec
 <div>
  <a href="https://github.com/viniciussimasvi">
